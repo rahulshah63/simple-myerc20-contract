@@ -1,0 +1,1 @@
+# simple-myerc20-contract
